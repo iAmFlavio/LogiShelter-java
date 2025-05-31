@@ -125,7 +125,7 @@ quarkus.hibernate-orm.log.sql=true
 
 ## 📎 Repositório
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/iAmFlavio/LogiShelter-java.git
 
 ---
 
